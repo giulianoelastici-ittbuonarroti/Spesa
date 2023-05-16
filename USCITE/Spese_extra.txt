@@ -1,1 +1,1 @@
-Cinema 100; Ristorante 150
+Cinema 100; Ristorante 150; Museo 50
