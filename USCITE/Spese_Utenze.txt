@@ -1,0 +1,1 @@
+gennaio: Gas 30; Luce 50; Acqua 20; Internat 50
